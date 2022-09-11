@@ -3,7 +3,7 @@
 
 <p dir="auto"><sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 <hr/>
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
